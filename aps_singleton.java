@@ -17,7 +17,7 @@ class Singleton
         if (obj==null) //Caso não exista referência para um objeto instânciado, é instânciado um novo objeto, caso contrário devolve a referência para o objeto existente 
             obj = new Singleton();
         return obj;
-    }s
+    }
 }
 
 
