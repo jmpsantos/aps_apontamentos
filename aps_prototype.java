@@ -83,4 +83,4 @@ public class Rectangle extends Shape {
     }
 }
 
-/*https://refactoring.guru/design-patterns/Shape */
+/*https://refactoring.guru/design-patterns/prototype*/
