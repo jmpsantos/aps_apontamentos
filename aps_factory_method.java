@@ -72,3 +72,6 @@ public class DemonstrarFactory {
 		v1.Show();
 	}
 }
+
+/*   REFS  */
+/*https://refactoring.guru/design-patterns/factory-method */
