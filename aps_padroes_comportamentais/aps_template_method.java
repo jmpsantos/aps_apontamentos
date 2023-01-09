@@ -1,6 +1,6 @@
 /*  Template method: Padrã que permite definir uma lógica geral numa superclasse a qual vai ser adpatada para as subclasses através de overriding.
  * 
- *      Utilizar quando: -é necessário estender a lógica de um código de uma forma particular sem mudar a sua estrutura principal
+ *      Utilizar quando: -é necessário extender a lógica de um código de uma forma particular sem mudar a sua estrutura principal
  * 
  *                       -temos diversas classes com algoritmos semelhantes e poucas diferenças entre si
  * 
