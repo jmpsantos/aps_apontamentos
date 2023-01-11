@@ -1,6 +1,6 @@
 /*Adapter: Padrão que permite a colaboração entre objetos de diferentes interfaces 
  * 
- * Funcionamento: 1. O Adapter comunica com uma das interfaces comaptiveis com os objetos
+ * Funcionamento: 1. O Adapter comunica com uma das interfaces compativeis com os objetos
  *                2. Através desta interface o objeto existente chama os metodos do adaptador
  *                3. Após ser chamado o adaptador passa o request ao segundo objeto no formato que este espera
  * 
